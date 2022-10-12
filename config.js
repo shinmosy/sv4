@@ -3,7 +3,7 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6282229451290']  // isi jika perlu
 global.mods = ['6282xxxxxx']   // isi jika perlu
 global.prems = ['6282xxxxxx']  // isi jika perlu
 
